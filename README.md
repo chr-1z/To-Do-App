@@ -1,6 +1,6 @@
 # To-Do-App
 
-Done w/ https://youtu.be/dtKciwk_si4
+Done w/ https://youtu.be/dtKciwk_si4?t=15037
 
 
 Realizei o projeto com HTML, CSS e JavaScript.
